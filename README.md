@@ -12,8 +12,8 @@ The robot uses sensors to detect walls and obstacles, allowing it to make decisi
 - Apply basic robotics and embedded systems concepts
 
 ## Components
-- Microcontroller (Arduino)
-- Ultrasonic / IR Sensors
+- Microcontroller (Arduino Nano)
+- Ultrasonic 
 - Servo Motors
 - Power Supply
 - Chassis (Spider design)
@@ -24,7 +24,7 @@ The robot uses sensors to detect walls and obstacles, allowing it to make decisi
 - Decision making inside maze
 
 ## Team Members
-# Ismail Abdelaziz Mohamed
-# Ammar Yasser
-# Mohamed Safwat
-# Mahmoud Khaled
+ Ismail Abdelaziz Mohamed
+ Ammar Yasser
+ Mohamed Safwat
+ Mahmoud Khaled
