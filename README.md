@@ -24,7 +24,7 @@ The robot uses sensors to detect walls and obstacles, allowing it to make decisi
 - Decision making inside maze
 
 ## Team Members
- Ismail Abdelaziz Mohamed
- Ammar Yasser
- Mohamed Safwat
- Mahmoud Khaled
+Ismail Abdelaziz Mohamed
+Ammar Yasser
+Mohamed Safwat
+Mahmoud Khaled
